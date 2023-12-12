@@ -1,0 +1,10 @@
+#signin_container {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#signin_container h2 {
+  font-family: Inter;
+  font-size: 100px;
+  color: #ac69ff;
+}

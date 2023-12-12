@@ -1,0 +1,28 @@
+.register-heading {
+  font-family: Inter;
+  font-size: 40px;
+  line-height: 61px;
+  font-weight: 700;
+  color: rgba(42, 12, 78, 1);
+}
+.input-bg {
+  font-family: Inter;
+  font-size: 20px;
+  background: rgba(198, 150, 255, 0.09);
+}
+.input-placeHolder {
+  font-family: Inter;
+  color: rgba(138, 112, 144, 1);
+}
+.submit-btn {
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.hr-line {
+  border: 1px solid rgba(138, 112, 144, 1);
+}
